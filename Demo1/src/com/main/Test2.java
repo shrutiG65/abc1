@@ -1,5 +1,6 @@
 package com.main;
 
 public class Test2 {
-    System.out.println("Hi");
+    int a=2.
+    int b=3;
 }
